@@ -4,5 +4,3 @@ class Question:
         self.answer = q_answer
 
 
-new_q = Question("Why are you gay?", "You are gay.")
-print(new_q.text)
